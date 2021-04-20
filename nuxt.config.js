@@ -79,6 +79,9 @@ export default {
       },
     ],
   },
+  server: {
+    port: 8000, // デフォルト: 3000
+  },
   /*
    ** Customize the progress-bar color
    */
