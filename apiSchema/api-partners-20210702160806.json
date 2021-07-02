@@ -1,0 +1,1 @@
+{"apiFields":[{"idValue":"rfuVvVFCy","fieldId":"company","name":"会社名","kind":"text","isUnique":false},{"fieldId":"url","name":"会社url","kind":"text","isUnique":false},{"fieldId":"description","name":"説明文","kind":"textArea"},{"fieldId":"logo","name":"ロゴ","kind":"media"}],"customFields":[]}
