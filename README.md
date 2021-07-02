@@ -32,7 +32,5 @@ Google Analytics は設定しなくても公開まではいけます。
 
 ## reference
 
-- [公開中 blog(修正なし)](https://beforeedit.netlify.app/)
-- [編集後\_GitHub](https://github.com/hashibadaiki/microCMS)
-- [編集後\_公開中 blog](https://edited.netlify.app/)
+- [公開中 blog(修正なし)](https://zen-torvalds-140f18.netlify.app/)
 - [microCMS のオープンソース化している説明記事](https://blog.microcms.io/open-source-the-blog)
